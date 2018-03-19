@@ -65,8 +65,20 @@ Math.random()
   Devuelve un número pseudo-aleatorio entre 0 y 1.
 `
 
+Math.sqrt()
+
+`
+  Devuelve la raíz cuadrada positiva de un número.
+`
+
 number.toFixed()
 
 `
   El método toFixed() formatea un número usando notación de punto fijo.
+`
+
+Object.create()
+
+`
+  El método Object.create() crea un nuevo objeto con el objeto y propiedades del prototipo especificado.
 `
